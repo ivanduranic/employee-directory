@@ -15,7 +15,7 @@ Application that allows users to view their entire employee directory at once so
 
 ## Installation
 
-This is a website only and does not require installation. It's currently hosted on GitHub Pages and you can access it at 
+This is a website only and does not require installation. It's currently hosted on GitHub Pages and you can access it at https://ivanduranic.github.io/employee-directory/. 
 
 ## Usage
 
