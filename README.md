@@ -22,7 +22,7 @@ This is a website only and does not require installation. It's currently hosted 
 ![image](https://user-images.githubusercontent.com/61889668/109403682-dc829780-792c-11eb-8565-3265335e8e2a.png)
 ![image](https://user-images.githubusercontent.com/61889668/109403692-f7eda280-792c-11eb-9c91-feed90b64875.png)
 
-This app is quite easy to use and understand. Once you reach the site, you will see all the employees with their information, listed. You can search for specific employees by entering their name in the search bar. You can also filter by categories in employes's table. 
+This app is quite easy to use and understand. Once you reach the site, you will see all the employees with their information, listed. You can search for specific employees by entering their first or last name in the search bar. 
 
 ## License
 

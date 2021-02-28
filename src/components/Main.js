@@ -1,10 +1,10 @@
 import React from "react";
-import EmployeeContainer from "./EmployeeContainer";
+import EmployeeRepo from "./EmployeeRepo";
 
 function Main() {
   return (
     <>
-      <EmployeeContainer />
+      <EmployeeRepo />
     </>
   );
 }

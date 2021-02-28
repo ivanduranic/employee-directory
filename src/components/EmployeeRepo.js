@@ -2,10 +2,10 @@ import React, { useState, useEffect } from "react";
 import Table from "./Table";
 import Nav from "./Nav";
 import API from "../utils/API";
-import "../styles/EmployeeContainer.css";
+import "../styles/EmployeeRepo.css";
 import DataAreaContext from "../utils/DataAreaContext";
 
-const EmployeeContainer = () => {
+const EmployeeRepo = () => {
   const [developerState, setDeveloperState] = useState({
     users: [],
     order: "descend",
@@ -114,4 +114,4 @@ const EmployeeContainer = () => {
   );
 };
 
-export default EmployeeContainer;  
+export default EmployeeRepo;  
